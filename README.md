@@ -4,7 +4,7 @@
 
 # Who am I
 <img src="https://media.giphy.com/media/A19JLnrlw4rte/giphy.gif"><br>
-I am Menthings, I am a young developer passionate about cybersecurity, I am 17 years old and I am active on my networks, you can then contact me
+I am <strong>Menthings</strong>, I am a young developer passionate about cybersecurity, I am 17 years old and I am active on my networks, you can then contact me
 
 # Other link
 <a href="https://twitter.com/intent/follow?screen_name=Menthinqs">
