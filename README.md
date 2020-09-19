@@ -15,11 +15,11 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://facebook.com/Menthinqs" target="_blank">
-    <img width="40px" height="40px" src="https://lh3.googleusercontent.com/proxy/awM1ANu33Ga80cGiv_2vyuQsNfbCieeWDHJTrBf_1J5uwhGoluZbpdGxOqru8QHEeGUsw33gT2IzlotQjMRsGK6pOeFAFJNSnH3r8KGZFSSgU3XYH3gpwlRY0LL1EnBd6fwsnA">
+    <img width="35px" height="35px" src="https://lh3.googleusercontent.com/proxy/awM1ANu33Ga80cGiv_2vyuQsNfbCieeWDHJTrBf_1J5uwhGoluZbpdGxOqru8QHEeGUsw33gT2IzlotQjMRsGK6pOeFAFJNSnH3r8KGZFSSgU3XYH3gpwlRY0LL1EnBd6fwsnA">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.youtube.com/c/Menthings" target="_blank">
-    <img width="32px" height="32px" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-png-11.png">
+    <img width="52px" height="52px" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-png-11.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.github.com/Menthings" target="_blank">
@@ -27,7 +27,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackthebox.eu/profile/222280" target="_blank">
-    <img width="35px" height="35px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png">
+    <img width="39px" height="39px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.root-me.org/Menthings" target="_blank">
@@ -47,7 +47,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://discord.gg/9ZzhQ49" target="_blank">
-    <img width="200" height="200" src="https://zupimages.net/up/20/38/ixq6.png">
+    <img width="211" height="220" src="https://zupimages.net/up/20/38/ixq6.png">
 </a>
 
 # Programming skills
