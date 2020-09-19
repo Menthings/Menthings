@@ -19,7 +19,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.youtube.com/c/Menthings" target="_blank">
-    <img width="52px" height="52px" src="https://zupimages.net/up/20/38/jslq.jpg">
+    <img width="47px" height="35px" src="https://zupimages.net/up/20/38/jslq.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.github.com/Menthings" target="_blank">
@@ -27,7 +27,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackthebox.eu/profile/222280" target="_blank">
-    <img width="39px" height="39px" src="https://forum.hackthebox.eu/uploads/RJZMUY81IQLQ.png">
+    <img width="39px" height="39px" src="https://zupimages.net/up/20/38/fj0i.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.root-me.org/Menthings" target="_blank">
