@@ -11,19 +11,19 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 # Social connections
 
 <a href="https://twitter.com/Menthinqs" target="_blank">
-    <img width="40px" height="40px" src="https://www.hesus.eu/wp-content/uploads/2019/05/twitter-logo-png-twitter-logo-vector-png-clipart-library-518.png">
+    <img width="40px" height="40px" src="https://zupimages.net/up/20/38/vi6g.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://facebook.com/Menthinqs" target="_blank">
-    <img width="35px" height="35px" src="https://lh3.googleusercontent.com/proxy/awM1ANu33Ga80cGiv_2vyuQsNfbCieeWDHJTrBf_1J5uwhGoluZbpdGxOqru8QHEeGUsw33gT2IzlotQjMRsGK6pOeFAFJNSnH3r8KGZFSSgU3XYH3gpwlRY0LL1EnBd6fwsnA">
+    <img width="35px" height="35px" src="https://zupimages.net/up/20/38/xwxv.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.youtube.com/c/Menthings" target="_blank">
-    <img width="52px" height="52px" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-png-11.png">
+    <img width="52px" height="52px" src="https://zupimages.net/up/20/38/jslq.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.github.com/Menthings" target="_blank">
-    <img width="40px" height="40px" src="https://github.com/fluidicon.png">
+    <img width="40px" height="40px" src="https://zupimages.net/up/20/38/0p3i.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackthebox.eu/profile/222280" target="_blank">
@@ -39,7 +39,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://doxbin.org/user/Menthings" target="_blank">
-    <img width="35px" height="35px" src="https://pbs.twimg.com/profile_images/894645526091649024/EhhI5FWM_400x400.jpg">
+    <img width="35px" height="35px" src="https://zupimages.net/up/20/38/nqee.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.twitch.tv/menthings" target="_blank">
