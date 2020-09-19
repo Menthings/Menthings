@@ -46,8 +46,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
     <img width="35px" height="35px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png">
 </a>
 
-
-<a href="https://discord.gg/9ZzhQ49" target="_blank">
+<br><a href="https://discord.gg/9ZzhQ49" target="_blank">
     <img width="200" height="200" src="https://p.kindpng.com/picc/s/683-6834324_join-the-pwned-discord-community-hd-png-download.png">
 </a>
 
