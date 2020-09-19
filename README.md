@@ -17,7 +17,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
     <a href="https://www.github.com/Menthings" target="_blank">
   <img class="btn-floating grey darken-4 hoverable z-depth-3" width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/github.svg">
 </p>
-  &nbsp;&nbsp;&nbsp;<a href="https://discord.gg/9ZzhQ49">
+  <a href="https://discord.gg/9ZzhQ49">
     <img src="https://i.imgur.com/zcubujh.png">
   </a>
 </p>
