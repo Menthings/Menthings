@@ -47,9 +47,9 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://discord.gg/9ZzhQ49" target="_blank">
-    <img width="200" height="200" src="https://p.kindpng.com/picc/s/683-6834324_join-the-pwned-discord-community-hd-png-download.png">
+    <img width="200" height="200" src="https://zupimages.net/up/20/38/ixq6.png">
 </a>
 
 # Programming skills
 
-alors la
+.
