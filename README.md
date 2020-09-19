@@ -4,16 +4,20 @@
 
 # Who am I
 <center><img src="https://media.giphy.com/media/A19JLnrlw4rte/giphy.gif"></center><br>
-I am <strong>Menthings</strong>, I am a young developer passionate about cybersecurity, I am 17 years old and I am active on my networks, you can then contact me
+I am <strong>Menthings</strong>, I am a young developer passionate about cybersecurity, I am 17 years old and I am active on my networks, you can then contact me.
 
-# Other link
-<a href="https://twitter.com/intent/follow?screen_name=Menthinqs">
-  <img src="https://img.shields.io/twitter/follow/Menthinqs?style=social&logo=twitter"alt=""></a>
+# Social connections
+  <a href="https://twitter.com/Menthinqs">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/twitter.svg">
+  </a>
 
-# Programming skills
-<img src="https://img.shields.io/badge/Python-100%25-blue"> <img src="https://img.shields.io/badge/HTML5-100%25-critical">
-<img src="https://img.shields.io/badge/CSS3-95%25-264de4"> <img src="https://img.shields.io/badge/PHP-90%25-7c9ddc">
-<img src="https://img.shields.io/badge/C-80%25-3c98ef"> <img src="https://img.shields.io/badge/Perl-80%25-6c8c6a">
-<img src="https://img.shields.io/badge/Ruby-60%25-870a0a">
-<img src="https://img.shields.io/badge/C%2B%2B-50%25-99298d">
-<img src="https://img.shields.io/badge/JavaScript-50%25-efdb17">
+  <a href="https://www.youtube.com/c/Menthings">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/youtube.svg">
+  </a>
+    <a href="https://www.github.com/Menthings" target="_blank">
+  <img class="btn-floating grey darken-4 hoverable z-depth-3" width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/github.svg">
+</p>
+  &nbsp;&nbsp;&nbsp;<a href="https://discord.gg/9ZzhQ49">
+    <img src="https://i.imgur.com/zcubujh.png">
+  </a>
+</p>
