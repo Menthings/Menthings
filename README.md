@@ -48,7 +48,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 <hr>
 
 # Server Discord where I am most active
-<br><a href="https://discord.gg/9ZzhQ49" target="_blank">
+<a href="https://discord.gg/9ZzhQ49" target="_blank">
     <img width="100px" height="100px" src="https://www.thrifter.com/sites/thrifter.com/files/styles/medium/public/article-images/2018/11/discord.png?itok=Gvzs4qq2">
 </a>
 
