@@ -3,7 +3,6 @@
 <meta name="Keywords" content="GitHub, Menthings">
 <meta name="Keywords" content="Le plus beau">
 
-
 # Who am I
 <center><img src="https://media.giphy.com/media/A19JLnrlw4rte/giphy.gif"></center><br>
 I am <strong>Menthings</strong>, I am a young developer passionate about cybersecurity, I am 17 years old and I am active on my networks, you can then contact me.
@@ -70,5 +69,35 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
     <ul>
         <li><strong>CSS3</strong></li>
         <p>Very nice language, and very easy to use, which I also use often</p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <li><strong>PHP</strong></li>
+        <p>I do it regularly, and I like it</p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <li><strong>C</strong></li>
+        <p>I do a little less, but it's still cool</p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <li><strong>C++</strong></li>
+        <p>Very nice language, and very easy to use, which I also use often</p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <li><strong>Perl</strong></li>
+        <p>I made some projects with this language</p>
+    </ul>
+</div>
+<div>
+    <ul>
+        <li><strong>Ruby</strong></li>
+        <p>I do not use it too often although it is an excellent language</p>
     </ul>
 </div>
