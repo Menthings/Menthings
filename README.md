@@ -53,7 +53,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>
 
 # Programming skills
-<p><strong>The order of the languages I use</strong></p><br>
+<h3><p><strong>The order of the languages I use</strong></p></h3><br>
 <div>
     <ul>
         <li><strong>Python 3</strong></li>
