@@ -47,7 +47,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://discord.gg/9ZzhQ49" target="_blank">
-    <img width="211" height="220" src="https://zupimages.net/up/20/38/ixq6.png">
+    <img width="100px" height="100px" src="https://www.thrifter.com/sites/thrifter.com/files/styles/medium/public/article-images/2018/11/discord.png?itok=Gvzs4qq2">
 </a>
 
 # Programming skills
