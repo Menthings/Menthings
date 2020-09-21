@@ -57,18 +57,18 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 <div>
     <ul>
         <li><strong>Python 3</strong></li>
-        <ol>It's my favorite language and also the one I use the most</ol>
+        <p>It's my favorite language and also the one I use the most</p>
     </ul>
 </div>
 <div>
     <ul>
         <li><strong>HTML5</strong></li>
-        <ol>I use this programming language very regularly, and it is as simple as possible, that I learned in 1 day</ol>
+        <p>I use this programming language very regularly, and it is as simple as possible, that I learned in 1 day</p>
     </ul>
 </div>
 <div>
     <ul>
         <li><strong>CSS3</strong></li>
-        <ol>Very nice language, and very easy to use, which I also use often</ol>
+        <p>Very nice language, and very easy to use, which I also use often</p>
     </ul>
 </div>
