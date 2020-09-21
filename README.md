@@ -51,7 +51,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>
 
 # Programming skills
-<p><strong>The languages I use</strong></p>
+<p><strong>The languages I use</strong></p><br>
 <ul>
     <ol><img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png"></ol>
     <ol><strong>Python</strong></ol>
