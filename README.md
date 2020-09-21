@@ -54,15 +54,19 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 <p><strong>The order of the languages I use</strong></p><br>
 <div>
     <ul>
-    <ol><img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png"></ol>
-    <ol><strong>Python</strong></ol>
-    <ol>I love this programming language, it's the one I use the most.</ol>
-</ul>
+        <li><strong>Python 3</strong></li>
+        <ol>It's my favorite language and also the one I use the most</ol>
+    </ul>
 </div>
 <div>
     <ul>
-    <ol><img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"></ol>
-    <ol><strong>HTML5</strong></ol>
-    <ol>lsssssssssssssssssssssssss</ol>
-</ul>
+        <li><strong>HTML5</strong></li>
+        <ol>I use this programming language very regularly, and it is as simple as possible, that I learned in 1 day</ol>
+    </ul>
+</div>
+<div>
+    <ul>
+        <li><strong>CSS3</strong></li>
+        <ol>Very nice language, and very easy to use, which I also use often</ol>
+    </ul>
 </div>
