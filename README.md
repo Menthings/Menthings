@@ -45,8 +45,10 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 <a href="https://www.twitch.tv/menthings" target="_blank">
     <img width="35px" height="35px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
-<hr><br><a href="https://discord.gg/9ZzhQ49" target="_blank">
+# Server Discord where I am most active
+<br><a href="https://discord.gg/9ZzhQ49" target="_blank">
     <img width="100px" height="100px" src="https://www.thrifter.com/sites/thrifter.com/files/styles/medium/public/article-images/2018/11/discord.png?itok=Gvzs4qq2">
 </a>
 
