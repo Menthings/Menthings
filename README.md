@@ -10,15 +10,15 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 # Social connections
 
 <a href="https://twitter.com/Menthinqs" target="_blank">
-    <img width="40px" height="40px" src="https://zupimages.net/up/20/38/vi6g.jpg">
+    <img width="40px" height="40px" src="https://image.flaticon.com/icons/png/512/39/39379.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://facebook.com/Menthinqs" target="_blank">
-    <img width="35px" height="35px" src="https://zupimages.net/up/20/38/xwxv.jpg">
+    <img width="35px" height="35px" src="https://image.flaticon.com/icons/png/512/23/23660.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.youtube.com/c/Menthings" target="_blank">
-    <img width="47px" height="35px" src="https://zupimages.net/up/20/38/jslq.jpg">
+    <img width="50px" height="50px" src="https://img2.freepng.fr/20180422/wzq/kisspng-youtube-logo-computer-icons-5adcd532e8ccd1.7467737615244219389536.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.github.com/Menthings" target="_blank">
@@ -44,5 +44,3 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 <a href="https://www.twitch.tv/menthings" target="_blank">
     <img width="35px" height="35px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<hr>
-
