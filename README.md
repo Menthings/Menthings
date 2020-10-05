@@ -26,7 +26,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackthebox.eu/profile/222280" target="_blank">
-    <img width="39px" height="39px" src="https://zupimages.net/up/20/38/fj0i.jpg">
+    <img width="39px" height="39px" src="https://zupimages.net/up/20/41/n7mn.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.root-me.org/Menthings" target="_blank">
