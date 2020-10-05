@@ -22,7 +22,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://www.github.com/Menthings" target="_blank">
-    <img width="40px" height="40px" src="https://zupimages.net/up/20/38/0p3i.jpg">
+    <img width="40px" height="40px" src="https://pngimg.com/uploads/github/github_PNG83.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackthebox.eu/profile/222280" target="_blank">
@@ -38,9 +38,9 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://doxbin.org/user/Menthings" target="_blank">
-    <img width="35px" height="35px" src="https://zupimages.net/up/20/38/nqee.jpg">
+    <img width="35px" height="35px" src="https://pbs.twimg.com/profile_images/894645526091649024/EhhI5FWM_400x400.jpg">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.twitch.tv/menthings" target="_blank">
-    <img width="35px" height="35px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png">
+    <img width="35px" height="35px" src="https://brand.twitch.tv/assets/images/black.png">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
