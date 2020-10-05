@@ -4,7 +4,7 @@
 <meta name="Keywords" content="Le plus beau">
 
 # Who am I
-<center><img src="https://media.giphy.com/media/A19JLnrlw4rte/giphy.gif"></center><br>
+<center><img src="https://zupimages.net/up/20/41/zuc2.gif"></center><br>
 I am <strong>Menthings</strong>, I am a young developer passionate about cybersecurity, I am 17 years old and I am active on my networks, you can then contact me.
 
 # Social connections
