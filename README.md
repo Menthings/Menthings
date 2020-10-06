@@ -47,4 +47,4 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 
 
 <a href="https://cryptohack.org/user/Menthings/" target="_blank">
-    <img width="35px" height="35px" src="https://zupimages.net/up/20/41/rjse.png">
+    <img width="45px" height="45px" src="https://zupimages.net/up/20/41/rjse.png">
