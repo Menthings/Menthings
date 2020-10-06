@@ -43,8 +43,7 @@ I am <strong>Menthings</strong>, I am a young developer passionate about cyberse
 
 <a href="https://www.twitch.tv/menthings" target="_blank">
     <img width="35px" height="35px" src="https://brand.twitch.tv/assets/images/black.png">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://cryptohack.org/user/Menthings/" target="_blank">
     <img width="45px" height="45px" src="https://zupimages.net/up/20/41/rjse.png">
